@@ -34,12 +34,17 @@
     width: 60px;
     /* height: 30px; */
 }
-.item21:hover,.item22:hover,.item23:hover,.item1:hover{
-    background-color: rgb(202, 205, 197);
-    font-size: 15px;
+a:hover{
     background-color: black;
     color: white;
+    font-family: 15px;
 }
+/* .item21:hover,.item22:hover,.item23:hover,.item1:hover{
+    font-size: 15px;
+    background-color: black;
+   
+   
+} */
 .container2{
     position: absolute;
     top: 800px;
@@ -211,6 +216,7 @@ input:hover{
 
 }
 a{
+    text-decoration: none;
     color: black;
 }
 h1{
